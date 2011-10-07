@@ -1,0 +1,7 @@
+The problem:
+
+You have a channel with lots of fields. You've spent ages making a beautiful custom publish layout for your client to make their life easy. You've separated your fields across multiple tabs and everything looks great. Your client then creates a new entry and leaves a required field empty. EE captures the error and adds a warning, but the field is on the second tab and the client can't see it. They have no way of knowing there is a problem; they don't even know the entry hasn't been saved.
+
+The solution:
+
+Mega Error from Electric Putty is a free Expressionengine Accessory available for EE2.x which will look across all tabs within a publish layout for errors and flag them up in a way no one will miss.
