@@ -1,0 +1,44 @@
+#ep_mega_error
+{
+	border: 2px solid #CE0000;
+	padding: 10px 10px 10px 35px;
+	background: url('../images/error.png') no-repeat 10px 15px #ffe5e5;
+}
+
+#ep_mega_error h1
+{
+	margin: 0 0 10px 0;
+	color: #CE0000;
+}
+
+#ep_mega_error p
+{
+	margin: 0 0 10px 0;
+	font-size: 1.1em;
+}
+
+#ep_mega_error ul
+{
+	margin: 0 0 10px 25px;
+	list-style: square;
+}
+
+#ep_mega_error li
+{
+	margin: 0 0 5px 0;
+	font-size: 1.1em;
+}
+
+#ep_mega_error li:first-letter
+{ 
+	text-transform: uppercase;
+}
+
+
+#holder div.notice 
+{
+	border: 2px solid #CE0000;
+	background: url('../images/error.png') no-repeat 5px 5px #ffe5e5;
+	padding: 5px 5px 5px 30px;
+	margin-left: 0px;
+}
